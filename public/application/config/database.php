@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '8fbb712023257ad3ada49cb2',
-	'database' => 'jisoo_project',
+	'hostname' => 'database',
+	'username' => 'ci',
+	'password' => 'ci',
+	'database' => 'ci_app',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

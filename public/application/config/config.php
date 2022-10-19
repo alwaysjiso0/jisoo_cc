@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://infs3202-50c98acc.uqcloud.net/jisoo_project/';
+$config['base_url'] = 'http://35.193.234.58:8181';
 
 /*
 |--------------------------------------------------------------------------
