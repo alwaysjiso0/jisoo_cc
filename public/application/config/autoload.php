@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('session', 'database', 'email', 'table', 'mongo_db');
+$autoload['libraries'] = array('session', 'database', 'email', 'table');
 
 /*
 | -------------------------------------------------------------------
